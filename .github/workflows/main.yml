@@ -31,4 +31,4 @@ jobs:
       # Basic check - does the script run?
       - name: Run Aim Trainer check
         run: |
-          python -m py_compile aim_trainer.py
+          python -m py_compile main.py
