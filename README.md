@@ -3,29 +3,21 @@ A Python-based aiming practice game built with Pygame that challenges your preci
 
 
 
-Table of Contents
+#Table of Contents
 Overview
-
 Features
-
 Installation
-
 How to Play
-
 Game Mechanics
-
 Controls
-
 Scoring
-
 Customization
-
 Troubleshooting
 
-Overview
+#Overview
 Aim Trainer is designed to help improve your mouse accuracy and reaction time. The game presents targets that you must click as quickly and accurately as possible. As you progress, the difficulty increases with smaller targets and faster spawn rates.
 
-Features
+#Features
 🎯 Progressive Difficulty - Targets get smaller and appear faster over time
 
 📊 Real-time Statistics - Track your score, accuracy, and remaining time
@@ -40,13 +32,13 @@ Features
 
 🔄 Multiple Game States - Menu, gameplay, and results screens
 
-Installation
+#Installation
 Prerequisites
 Python 3.6 or higher
 
 Pip package manager
 
-Step-by-Step Installation
+#Step-by-Step Installation
 Clone or download the game files
 
 bash
