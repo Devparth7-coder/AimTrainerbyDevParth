@@ -1,5 +1,6 @@
 ````markdown
 # Aim Trainer 🎯
+[![CI](https://github.com/Devparth7-coder/AimTrainerbyDevParth/actions/workflows/main.yml/badge.svg)](https://github.com/Devparth7-coder/AimTrainerbyDevParth/actions)
 
 A Python-based aiming practice game built with Pygame that challenges your precision, speed, and reflexes.
 
